@@ -1,0 +1,49 @@
+{
+  "id": "isometrics",
+  "title": "Grape Juice Isometrics",
+  "description": "The Isometric module for Foundry",
+  "authors": [
+    {
+      "name": "Grape_Juice",
+      "url": "https://www.patreon.com/foundry_grape_juice",
+      "discord": "grape_juice#2539",
+      "flags": {}
+    }
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json",
+      "flags": {}
+    }
+  ],
+  "styles": [
+    "styles/tooltip.css"
+  ],
+  "scripts": [
+    "scripts/init.js"
+  ],
+  "esmodules": [
+    "scripts/modules/core/init.js"
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "lib-wrapper",
+        "type": "module",
+        "compatibility": {
+          "minimum": "1.12.6.0",
+          "verified": "1.12.6.0"
+        }
+      }
+    ]
+  },
+  "manifest": "https://gitlab.com/jesusafier/grape_juice-isometrics/-/raw/0.10.291.2/module.json",
+  "download": "https://gitlab.com/jesusafier/grape_juice-isometrics/-/raw/0.10.291.2/grape_juice-isometrics.zip",
+  "version": "0.10.291.2",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  }
+}
