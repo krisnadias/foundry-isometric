@@ -39,11 +39,11 @@
       }
     ]
   },
-  "manifest": "https://gitlab.com/jesusafier/grape_juice-isometrics/-/raw/0.10.291.2/module.json",
-  "download": "https://gitlab.com/jesusafier/grape_juice-isometrics/-/raw/0.10.291.2/grape_juice-isometrics.zip",
+  "manifest": "https://github.com/krisnadias/foundry-isometric/blob/main/isometrics/module.json",
+  "download": "https://github.com/krisnadias/foundry-isometric/-/raw/0.10.291.2/grape_juice-isometrics.zip",
   "version": "0.10.291.2",
   "compatibility": {
     "minimum": "10",
-    "verified": "10"
+    "verified": "11"
   }
 }
